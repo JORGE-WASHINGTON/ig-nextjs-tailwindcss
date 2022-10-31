@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import SignUpForm from "../components/SignUpForm";
-import logo from "../public/logo.png";
+import logo from "../../public/logo.png";
 
 export default function SignUp() {
   return (
